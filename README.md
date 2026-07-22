@@ -1,84 +1,85 @@
-# SIBERBRIDGE
-
 <div align="center">
 
-## Founder of SiberBridge • Software Developer • Game Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:00BFFF,100:3B82F6&text=SIBERBRIDGE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20•%20Game%20Developer%20•%20Open%20Source&descAlignY=58"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pyrzegeclb&label=Profile+Views&color=0e75b6)
+# 👋 Hi, I'm Ege
+
+### Founder of **SiberBridge**
+
+Building modern software, AI tools, Linux projects and games.
+
+<br>
+
+<a href="https://github.com/pyrzegeclb">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://siberbridge.ct.ws">
+<img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00BFFF"/>
+</a>
+
+<a href="mailto:clbpyrz@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=pyrzegeclb&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👋 About Me
+# 💫 About Me
 
-```bash
-$ whoami
-Name        :: Ege
-Role        :: Software Developer
-Focus       :: Web • Linux • AI • Game Development
-Brand       :: SiberBridge
-```
-
-# 🌐 Socials
-
-> Replace the links below with your own.
-
-- GitHub
-- LinkedIn
-- Website
-- Email
-
----
-
-# 🚀 My Projects
-
-| Project | Description |
-|---|---|
-| 🖥️ SiberBridge OS | Ubuntu based operating system |
-| 🤖 KatalogPro AI | AI catalog generator |
-| 🛒 Commerce SaaS | Modern e-commerce platform |
-| 🎮 Hyper Runner | Unity game |
-| 📦 DiecastPort | Community platform |
-| 🌐 Portfolio | Personal website |
-
----
-
-# 💻 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,nodejs,python,java,cs,cpp,unity,linux,docker,mysql,mongodb,git,github,vscode,figma,blender&perline=7"/>
-</p>
-
----
-
-# 📊 GitHub Stats
-
-```md
-Add github-readme-stats here
-Add streak stats here
-Add activity graph here
-Add trophies here
+```text
+👤 Name        :: Ege
+🏢 Brand       :: SiberBridge
+💻 Role        :: Software Developer
+🎮 Hobby       :: Game Development
+🐧 Favorite OS :: Linux
+🌍 Country     :: Türkiye
+🚀 Goal        :: Build software that people enjoy using.
 ```
 
 ---
 
-# 🐍 Contribution Snake
+# ⚡ Currently Working On
 
-Configure Platane/snk GitHub Action and embed the generated SVG here.
+- 🖥️ **SiberBridge OS**
+- 🤖 **KatalogPro AI**
+- 🛒 **Commerce SaaS**
+- 🎮 **Unity Projects**
+- 🌐 **Personal Portfolio**
 
 ---
 
-# 💬 Quote
+# 📌 Quick Facts
 
-> Building tomorrow, one commit at a time.
+<table>
+<tr>
+<td>💻 Software Development</td>
+<td>🎮 Game Development</td>
+</tr>
+
+<tr>
+<td>🤖 Artificial Intelligence</td>
+<td>🐧 Linux</td>
+</tr>
+
+<tr>
+<td>🌐 Web Development</td>
+<td>🚀 Open Source</td>
+</tr>
+
+</table>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting 👋
-
-**See you in the next commit.**
+> *"Building tomorrow, one commit at a time."*
 
 </div>
+
+---
