@@ -324,3 +324,58 @@ Personal Website
 </div>
 
 ---
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=algolia&hide_border=true&bg_color=00000000&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=algolia&hide_border=true&bg_color=00000000&title_color=00BFFF&text_color=FFFFFF"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=algolia&hide_border=true&background=00000000&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=00000000&hide_border=true&color=00BFFF&line=00BFFF&point=FFFFFF"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0D1117&height=120&section=footer"/>
+
+### 🚀 Building the future, one commit at a time.
+
+<img src="https://komarev.com/ghpvc/?username=pyrzegeclb&style=for-the-badge&color=00BFFF"/>
+
+### Powered by **SiberBridge**
+
+</div>
