@@ -83,3 +83,137 @@ Building modern software, AI tools, Linux projects and games.
 </div>
 
 ---
+# 🚀 My Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<a href="https://github.com/pyrzegeclb/siberbridge-os">
+
+<img src="https://img.icons8.com/fluency/96/windows-11.png" width="85"/>
+
+### SiberBridge OS
+
+Ubuntu Based Operating System
+
+<img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://github.com/YOUR_USERNAME/katalogpro-ai">
+
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="85"/>
+
+### KatalogPro AI
+
+Generate beautiful catalogs with AI
+
+<img src="https://img.shields.io/badge/AI-Groq_API-00BFFF?style=flat-square"/>
+
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://github.com/YOUR_USERNAME/commerce-saas">
+
+<img src="https://img.icons8.com/fluency/96/shop.png" width="85"/>
+
+### Commerce SaaS
+
+Modern E-Commerce Platform
+
+<img src="https://img.shields.io/badge/PHP-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<a href="https://github.com/YOUR_USERNAME/hyper-runner">
+
+<img src="https://img.icons8.com/fluency/96/controller.png" width="85"/>
+
+### Hyper Runner
+
+Unity Mobile Game
+
+<img src="https://img.shields.io/badge/Unity-2022-black?style=flat-square&logo=unity"/>
+
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://github.com/YOUR_USERNAME/diecastport">
+
+<img src="https://img.icons8.com/fluency/96/package.png" width="85"/>
+
+### DiecastPort
+
+Community Platform
+
+<img src="https://img.shields.io/badge/Community-Web-blue?style=flat-square"/>
+
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+
+<img src="https://img.icons8.com/fluency/96/domain.png" width="85"/>
+
+### Portfolio
+
+Personal Website
+
+<img src="https://img.shields.io/badge/Website-Online-success?style=flat-square"/>
+
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+## 📈 Project Status
+
+| Project | Status | Progress |
+|---------|--------|----------|
+| 🖥️ SiberBridge OS | 🟢 Active | ████████░░ 80% |
+| 🤖 KatalogPro AI | 🟢 Active | ███████░░░ 70% |
+| 🛒 Commerce SaaS | 🟢 Active | █████████░ 90% |
+| 🎮 Hyper Runner | 🟡 Planning | ████░░░░░░ 40% |
+| 📦 DiecastPort | 🔵 Concept | ██░░░░░░░░ 20% |
+
+---
+
+<div align="center">
+
+### 🚀 More projects coming soon...
+
+</div>
+
+---
