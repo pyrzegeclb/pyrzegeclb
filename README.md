@@ -1,10 +1,15 @@
-SIBERBRIDGE
+████████████████████████████
+
+          SIBERBRIDGE
 
 Software Engineer
 Game Developer
-Linux Enthusiast
+Open Source Developer
 
-> Booting profile...
+Building tomorrow,
+one commit at a time.
+
+████████████████████████████
 ## 💻 Tech Stack
 
 <p align="center">
