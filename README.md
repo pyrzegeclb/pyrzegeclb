@@ -217,3 +217,110 @@ Personal Website
 </div>
 
 ---
+# 💻 Tech Stack
+
+<div align="center">
+
+## 🧠 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,js,ts,python,java,cs,cpp,bash" />
+</p>
+
+---
+
+## 🚀 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,vite" />
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,firebase" />
+</p>
+
+---
+
+## 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+</p>
+
+---
+
+## 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman,linux,bash" />
+</p>
+
+---
+
+## 🎮 Game Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=unity,unreal,blender" />
+</p>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+| Technology | Progress |
+|------------|---------:|
+| 🐳 Docker | ███████░░░ 70% |
+| ⚛️ Next.js | ████████░░ 80% |
+| 🤖 AI Integration | █████████░ 90% |
+| 🐧 Linux | ██████████ 100% |
+| 🎮 Unreal Engine | ██████░░░░ 60% |
+
+</div>
+
+---
+
+# ⚡ Development Environment
+
+```text
+💻 Editor      :: Visual Studio Code
+🐧 OS          :: Linux / Windows
+🌐 Browser     :: Chrome
+🗄️ Database    :: MySQL / MongoDB
+🎨 Design      :: Figma
+🎮 Engine      :: Unity / Unreal Engine
+📦 Versioning  :: Git & GitHub
+```
+
+---
+
+# 🎯 Interests
+
+<div align="center">
+
+| 💻 Software | 🤖 AI | 🎮 Games |
+|:----------:|:-----:|:--------:|
+| 🌐 Web Apps | 🧠 ML | 🕹️ Unity |
+| ☁️ Cloud | 💬 LLMs | 🎨 Blender |
+| 📦 SaaS | ⚡ Automation | 🧩 Unreal |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Favorite Technologies
+
+<img src="https://skillicons.dev/icons?i=php,laravel,react,python,unity,linux,docker,mysql,git"/>
+
+</div>
+
+---
