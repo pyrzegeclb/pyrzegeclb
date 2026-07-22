@@ -225,7 +225,7 @@ Personal Website
 ## 🧠 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,js,ts,python,java,cs,cpp,bash" />
+<img src="https://skillicons.dev/icons?i=php,js,ts,python,java,cs,cpp,bash,react" />
 </p>
 
 ---
