@@ -51,6 +51,7 @@ Building modern software, AI tools, Linux projects and games.
 - 🛒 **Commerce SaaS**
 - 🎮 **Unity Projects**
 - 🌐 **Personal Portfolio**
+- 🤖 **Siberbridge Universal Artificial İntelligence Client**
 
 ---
 
