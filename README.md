@@ -1,3 +1,10 @@
+SIBERBRIDGE
+
+Software Engineer
+Game Developer
+Linux Enthusiast
+
+> Booting profile...
 ## 💻 Tech Stack
 
 <p align="center">
