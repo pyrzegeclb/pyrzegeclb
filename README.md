@@ -320,7 +320,7 @@ Personal Website
 
 ## 🚀 Favorite Technologies
 
-<img src="https://skillicons.dev/icons?i=php,laravel,react,python,unity,linux,docker,mysql,git"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,react,python,unity,linux,docker,mysql,git,c#"/>
 
 </div>
 
