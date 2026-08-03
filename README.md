@@ -1,382 +1,81 @@
+# 👋 Hi, I'm Poyraz Ege Çelebi
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:00BFFF,100:3B82F6&text=SIBERBRIDGE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20•%20Game%20Developer%20•%20Open%20Source&descAlignY=58"/>
+**Full Stack Developer**
 
-# 👋 Hi, I'm Ege
-
-### Founder of **SiberBridge**
-
-Building modern software, AI tools, Linux projects and games.
-
-<br>
-
-<a href="https://github.com/pyrzegeclb">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://siberbridge.ct.ws">
-<img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00BFFF"/>
-</a>
-
-<a href="mailto:clbpyrz@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=pyrzegeclb&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+React • TypeScript • Node.js • Express • Prisma • Docker
 
 </div>
 
 ---
 
-# 💫 About Me
+# 📊 Development Dashboard
 
-```text
-👤 Name        :: Ege
-🏢 Brand       :: SiberBridge
-💻 Role        :: Software Developer
-🎮 Hobby       :: Game Development
-🐧 Favorite OS :: Linux
-🌍 Country     :: Türkiye
-🚀 Goal        :: Build software that people enjoy using.
-```
+<p align="center">
 
----
-
-# ⚡ Currently Working On
-
-- 🖥️ **SiberBridge OS**
-- 🤖 **KatalogPro AI**
-- 🛒 **Commerce SaaS**
-- 🎮 **Unity Projects**
-- 🌐 **Personal Portfolio**
-- 🤖 **Siberbridge Universal Artificial İntelligence Client**
-
----
-
-# 📌 Quick Facts
-
-<table>
-<tr>
-<td>💻 Software Development</td>
-<td>🎮 Game Development</td>
-</tr>
-
-<tr>
-<td>🤖 Artificial Intelligence</td>
-<td>🐧 Linux</td>
-</tr>
-
-<tr>
-<td>🌐 Web Development</td>
-<td>🚀 Open Source</td>
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-> *"Building tomorrow, one commit at a time."*
-
-</div>
-
----
-# 🚀 My Projects
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-<a href="https://github.com/pyrzegeclb/siberbridge-os">
-
-<img src="https://img.icons8.com/fluency/96/windows-11.png" width="85"/>
-
-### SiberBridge OS
-
-Ubuntu Based Operating System
-
-<img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
-
+<a href="https://github.com/pyrzegeclb?tab=issues">
+<img src="https://img.shields.io/badge/Closed%20Issues-0-success?style=for-the-badge">
 </a>
 
-</td>
-
-<td align="center" width="33%">
-
-<a href="https://github.com/YOUR_USERNAME/katalogpro-ai">
-
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="85"/>
-
-### KatalogPro AI
-
-Generate beautiful catalogs with AI
-
-<img src="https://img.shields.io/badge/AI-Groq_API-00BFFF?style=flat-square"/>
-
+<a href="https://github.com/pyrzegeclb?tab=issues">
+<img src="https://img.shields.io/badge/Open%20Issues-0-orange?style=for-the-badge">
 </a>
 
-</td>
-
-<td align="center" width="33%">
-
-<a href="https://github.com/YOUR_USERNAME/commerce-saas">
-
-<img src="https://img.icons8.com/fluency/96/shop.png" width="85"/>
-
-### Commerce SaaS
-
-Modern E-Commerce Platform
-
-<img src="https://img.shields.io/badge/PHP-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-
+<a href="https://github.com/pyrzegeclb?tab=pull_requests">
+<img src="https://img.shields.io/badge/Pull%20Requests-0-blue?style=for-the-badge">
 </a>
 
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<a href="https://github.com/YOUR_USERNAME/hyper-runner">
-
-<img src="https://img.icons8.com/fluency/96/controller.png" width="85"/>
-
-### Hyper Runner
-
-Unity Mobile Game
-
-<img src="https://img.shields.io/badge/Unity-2022-black?style=flat-square&logo=unity"/>
-
+<a href="https://github.com/pyrzegeclb?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-0-black?style=for-the-badge">
 </a>
 
-</td>
-
-<td align="center">
-
-<a href="https://github.com/YOUR_USERNAME/diecastport">
-
-<img src="https://img.icons8.com/fluency/96/package.png" width="85"/>
-
-### DiecastPort
-
-Community Platform
-
-<img src="https://img.shields.io/badge/Community-Web-blue?style=flat-square"/>
-
-</a>
-
-</td>
-
-<td align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-
-<img src="https://img.icons8.com/fluency/96/domain.png" width="85"/>
-
-### Portfolio
-
-Personal Website
-
-<img src="https://img.shields.io/badge/Website-Online-success?style=flat-square"/>
-
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-## 📈 Project Status
-
-| Project | Status | Progress |
-|---------|--------|----------|
-| 🖥️ SiberBridge OS | 🟢 Active | ████████░░ 80% |
-| 🤖 KatalogPro AI | 🟢 Active | ███████░░░ 70% |
-| 🛒 Commerce SaaS | 🟢 Active | █████████░ 90% |
-| 🎮 Hyper Runner | 🟡 Planning | ████░░░░░░ 40% |
-| 📦 DiecastPort | 🔵 Concept | ██░░░░░░░░ 20% |
-
----
-
-<div align="center">
-
-### 🚀 More projects coming soon...
-
-</div>
-
----
-# 💻 Tech Stack
-
-<div align="center">
-
-## 🧠 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=php,js,ts,python,java,cs,cpp,bash,react" />
 </p>
 
 ---
 
-## 🚀 Frontend
+# 🚀 Featured Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,vite" />
+| Project | Description |
+|----------|-------------|
+| 📚 Library Management System | Full Stack Library Automation |
+| ☁️ SiberBridge | Cloud Storage Platform |
+| 🛒 E-Commerce SaaS | Modern Shopping Platform |
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=pyrzegeclb&show_icons=true&theme=tokyonight">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyrzegeclb&layout=compact&theme=tokyonight">
+
 </p>
 
 ---
 
-## ⚙️ Backend
+# 🔥 Contribution Graph
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,firebase" />
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pyrzegeclb&theme=tokyo-night">
+
 </p>
 
 ---
 
-## 🗄️ Database
+# 🏆 Achievements
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pyrzegeclb&theme=tokyonight&row=1&column=6">
+
 </p>
 
 ---
 
-## 🛠️ Tools
+# 📫 Contact
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman,linux,bash" />
-</p>
-
----
-
-## 🎮 Game Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=unity,unreal,blender" />
-</p>
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-| Technology | Progress |
-|------------|---------:|
-| 🐳 Docker | ███████░░░ 70% |
-| ⚛️ Next.js | ████████░░ 80% |
-| 🤖 AI Integration | █████████░ 90% |
-| 🐧 Linux | ██████████ 100% |
-| 🎮 Unreal Engine | ██████░░░░ 60% |
-
-</div>
-
----
-
-# ⚡ Development Environment
-
-```text
-💻 Editor      :: Visual Studio Code
-🐧 OS          :: Linux / Windows
-🌐 Browser     :: Chrome
-🗄️ Database    :: MySQL / MongoDB
-🎨 Design      :: Figma
-🎮 Engine      :: Unity / Unreal Engine
-📦 Versioning  :: Git & GitHub
-```
-
----
-
-# 🎯 Interests
-
-<div align="center">
-
-| 💻 Software | 🤖 AI | 🎮 Games |
-|:----------:|:-----:|:--------:|
-| 🌐 Web Apps | 🧠 ML | 🕹️ Unity |
-| ☁️ Cloud | 💬 LLMs | 🎨 Blender |
-| 📦 SaaS | ⚡ Automation | 🧩 Unreal |
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Favorite Technologies
-
-<img src="https://skillicons.dev/icons?i=php,laravel,react,python,unity,linux,docker,mysql,git,c#"/>
-
-</div>
-
----
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pyrzegeclb&show_icons=true&theme=algolia&hide_border=true&bg_color=00000000&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=algolia&hide_border=true&bg_color=00000000&title_color=00BFFF&text_color=FFFFFF"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=pyrzegeclb&theme=algolia&hide_border=true&background=00000000&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF"/>
-
-</div>
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pyrzegeclb&theme=react-dark&bg_color=00000000&hide_border=true&color=00BFFF&line=00BFFF&point=FFFFFF"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pyrzegeclb&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0D1117&height=120&section=footer"/>
-
-### 🚀 Building the future, one commit at a time.
-
-<img src="https://komarev.com/ghpvc/?username=pyrzegeclb&style=for-the-badge&color=00BFFF"/>
-
-### Powered by **SiberBridge**
-
-</div>
+- GitHub: https://github.com/pyrzegeclb
