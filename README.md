@@ -15,8 +15,8 @@
 
 ## 📊 Development
 
-![Repositories](https://img.shields.io/badge/Repositories-6-blue?style=for-the-badge)
-![Issues](https://img.shields.io/badge/Issues-1-success?style=for-the-badge)
+![Repositories](https://img.shields.io/badge/Repositories-5-blue?style=for-the-badge)
+![Issues](https://img.shields.io/badge/Issues-5-success?style=for-the-badge)
 ![Stars](https://img.shields.io/badge/Stars-2-yellow?style=for-the-badge)
 
 ---
